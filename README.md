@@ -21,6 +21,7 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/cybertramp<br>
 
 <details>	
   <summary><b>My Place</b></summary>
+  
   [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paran-son)
   
 </details>
