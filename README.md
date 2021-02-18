@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 :)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcybertramp&count_bg=%2332C7CF&title_bg=%23555555&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=%EB%88%84%EA%B0%80%EC%99%94%EB%82%98&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcybertramp&count_bg=%2332C7CF&title_bg=%23555555&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/></a>
 
 #### About me
 
